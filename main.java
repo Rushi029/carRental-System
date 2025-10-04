@@ -2,7 +2,7 @@ public class main {
     public static void main(String[] args) {
         CarRentalSystem rentalSystem = new CarRentalSystem();
 
-        Car car1 = new Car("C001", "Toyota", "Innova", 60.0); // Different base price per day for each car
+        Car car1 = new Car("C001", "Toyota", "Innova", 60.0); 
         Car car2 = new Car("C002", "Honda", "Accord", 70.0);
         Car car3 = new Car("C003", "Mahindra", "Thar", 150.0);
         Car car4 = new Car("C004", "TATA", "Safari", 80.0);
