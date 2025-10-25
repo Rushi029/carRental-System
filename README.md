@@ -1,4 +1,4 @@
-# Car Rental System (Console-Based)
+# CarRental System (Console-Based)
 
 ## 📌 Overview
 The **CarRental System** is a Java-based console application that allows users to manage car rentals efficiently.  
