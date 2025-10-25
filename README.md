@@ -21,5 +21,5 @@ This project is suitable for beginners who want to Demonstrate there Java fundam
 
 ## 🛠️ Tech Stack
 - **Language:** Java (JDK 8+)
-- **Concepts Used:** OOP (Classes, Objects, Inheritance, Encapsulation), Collections (ArrayList, HashMap), Exception Handling
+- **Concepts Used:** OOP (Classes, Objects, Inheritance, Encapsulation), Collections (ArrayList)
 - **IDE (Optional):** VS Code
